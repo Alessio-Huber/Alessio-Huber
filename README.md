@@ -1,7 +1,7 @@
 <h1 align="center">✨ Welcome to my GitHub ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Alessio+Huber;IT+enthusiast+and+tech+lover+%F0%9F%A7%A1;Always+learning+something+new+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=002bd9&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Alessio+Huber;IT+enthusiast+and+tech+lover+%F0%9F%A7%A1;Always+learning+something+new+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
